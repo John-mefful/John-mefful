@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @John-mefful, currently a professional graphic designer. W
-- 👀 I’m interested in collaborative projects...
-- 🌱 I’m currently learning software engineering 
+- 👋 Hi, I’m @John-mefful, currently a professional graphic designer.
+- 👀 I’m interested in collaborative projects.
+- 🌱 I’m currently learning software engineering.
 - 💞️ I’m looking to collaborate on mobile app projects 
 
 <!---
